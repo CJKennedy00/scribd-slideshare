@@ -1,12 +1,12 @@
 # Scribd-SlideShare ![nodedotjs](https://img.shields.io/badge/node.js-v21.6-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-10.2-dc2c35.svg?style=flat&logo=npm&logoColor=white)  
 
 ## About ##
-Scribd-dl helps downloading:
+Scribd-SlideShare helps downloading:
 - documents on [scribd.com](https://www.scribd.com/) and [slideshare.net](https://www.slideshare.net/) without membership / sign-in  
 - podcast audios on [everand.com](https://www.everand.com/podcasts)  
 
 ## Prerequisites ##
-To use Scridb-dl, you need to install [Node.js](https://nodejs.org/en/download/). It is recommended that you use the latest LTS version available.  
+To use Scribd-SlideShare, you need to install [Node.js](https://nodejs.org/en/download/). It is recommended that you use the latest LTS version available.  
 
 > Please install Node.js using pre-built installers for your platform. You may encounter incompatibility issues with different development tools otherwise.  
 
