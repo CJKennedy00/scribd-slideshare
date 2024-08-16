@@ -1,0 +1,38 @@
+{
+  "name": "scribd-dl",
+  "version": "1.0.0",
+  "description": "Scribd Document Downloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
+    "test:cov": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage",
+    "lint": "eslint --fix \"{src,apps,libs}/**/*.js\""
+  },
+  "keywords": [],
+  "author": {
+    "name": "ray.yukawai",
+    "email": "ray.yukawai@gmail.com"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cli-progress": "^3.12.0",
+    "ini": "^4.1.2",
+    "pdfkit": "^0.15.0",
+    "puppeteer": "^19.11.1",
+    "sharp": "^0.33.3"
+  },
+  "type": "module",
+  "types": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.1.1",
+    "eslint": "^9.1.1",
+    "globals": "^15.0.0",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "transform": {}
+  }
+}
