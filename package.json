@@ -1,5 +1,5 @@
 {
-  "name": "scribd-dl",
+  "name": "scribd-slideshare",
   "version": "1.0.0",
   "description": "Scribd Document Downloader",
   "main": "index.js",
