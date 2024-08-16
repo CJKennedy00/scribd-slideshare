@@ -6,7 +6,7 @@ Scribd-SlideShare helps downloading:
 - podcast audios on [everand.com](https://www.everand.com/podcasts)  
 
 ## Prerequisites ##
-To use Scribd-SlideShare, you need to install [Node.js](https://nodejs.org/en/download/). It is recommended that you use the latest LTS version available.  
+To use Scribd-SlideShare, you need to install [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads). It is recommended that you use the latest LTS version available.  
 
 > Please install Node.js using pre-built installers for your platform. You may encounter incompatibility issues with different development tools otherwise.  
 
