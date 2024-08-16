@@ -24,7 +24,7 @@ The commands should print the versions of Node.js and npm accordingly.
 ## Setup ##
 1. Download repository  
 ```console
-git clone https://github.com/rkwyu/scribd-dl
+git clone https://github.com/CJKennedy00/scribd-slideshare
 ```
 2. Install dependencies
 ```console
